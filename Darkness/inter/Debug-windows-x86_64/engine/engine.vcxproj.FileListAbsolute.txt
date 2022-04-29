@@ -1,0 +1,8 @@
+E:\Archive\Advanced games tech labs\Lab 3\AGT_TEMPLATE\bin\Debug-windows-x86_64\engine\engine.pdb
+E:\Archive\Advanced games tech labs\Lab 3\AGT_TEMPLATE\inter\Debug-windows-x86_64\engine\engine.pdb
+E:\Archive\Advanced games tech labs\Coursework\AGT_TEMPLATE\bin\Debug-windows-x86_64\engine\engine.pdb
+E:\Archive\Advanced games tech labs\Coursework\AGT_TEMPLATE\inter\Debug-windows-x86_64\engine\engine.pdb
+E:\Archive\Advanced games tech labs\submission\IN3026 Milestone 2 Coursework - Patryk Owczarz\Coursework\AGT_TEMPLATE\bin\Debug-windows-x86_64\engine\engine.pdb
+E:\Archive\Advanced games tech labs\submission\IN3026 Milestone 2 Coursework - Patryk Owczarz\Coursework\AGT_TEMPLATE\inter\Debug-windows-x86_64\engine\engine.pdb
+E:\Archive\Github Projects\AGT\Darkness\bin\Debug-windows-x86_64\engine\engine.pdb
+E:\Archive\Github Projects\AGT\Darkness\inter\Debug-windows-x86_64\engine\engine.pdb

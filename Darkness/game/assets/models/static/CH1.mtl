@@ -1,0 +1,28 @@
+# Blender MTL File: 'CH1.blend'
+# Material Count: 2
+
+newmtl Material.001
+Ns 215.686275
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.913295 0.913295 0.913295
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd enem_1_spc.png
+map_Bump -bm 0.935065 enem_1_nrm.png
+map_Ks enem_1_col.png
+
+newmtl pins
+Ns 41.176471
+Ka 1.000000 1.000000 1.000000
+Kd 0.405654 0.285832 0.151292
+Ks 0.000000 0.000000 0.000000
+Ke 0.188629 0.132912 0.070351
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd enem_1_spc.png
+map_Bump -bm 0.935065 enem_1_nrm.png
+map_d enem_1_col.png

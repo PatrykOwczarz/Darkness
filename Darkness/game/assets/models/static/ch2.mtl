@@ -1,0 +1,15 @@
+# Blender MTL File: 'ch2.blend'
+# Material Count: 1
+
+newmtl Material.001
+Ns 192.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.432985 0.432985 0.432985
+Ks 0.581882 0.581882 0.581882
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd enem_2_spec.png
+map_Bump -bm 0.868421 enem_2_nrm.png
+map_Ks enem2_col.png
